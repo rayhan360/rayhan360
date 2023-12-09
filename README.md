@@ -33,6 +33,67 @@ Turning ideas into code and aspiring to become a skilled software engineer.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,nodejs,expressjs,mongodb,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,github,netlify,vercel,replit)](https://skillicons.dev)
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rayhan360&theme=blue-navy)](https://git.io/streak-stats)
 
+</div>
 
+
+# My Projects
+
+## Festive Fusion
+**Event Management Platform**
+
+**Live Link:** [Festive Fusion Live](https://event-management-5ac6f.web.app/) 
+
+### Project Overview
+Front-end Project developed in 3 Days
+#### Features:
+- **Event management services showcased on homepage.**
+- **Detailed event info and pricing behind user login.**
+- **Gallery, testimonials, "OurFestival," and cultural blog feature.**
+
+#### Usage Technology:
+- ReactJS, React-Router, DaisyUI, Tailwind, AOS, React-Slick, hot-toast, SweetAlert, Firebase for authentication
+
+<!-- Repeat the same structure for other projects -->
+
+## Book Minder Library
+**Library Management Platform**
+
+**Live Link:** [Book Minder Library Live](https://book-minder-library.web.app/)
+
+### Project Overview
+Full-Stack Project developed in 4 Days
+
+#### Features:
+- **Subscribe to newsletter for updates.**
+- **Preview book content with "Read" button.**
+- **Borrow books with "Borrow" button.**
+- **Manage borrowed books on "Borrower Books" page.**
+- **Install library's mobile app from the homepage link.**
+- **Add new books: title, author, genre, description.**
+- **Update book information, including editions and availability.**
+
+#### Usage Technology:
+- React.js, Express.js, Tailwind, DaisyUI, MongoDB, JWT, React Hook Form, Tanstack-Query, Axios, Swipper.js, Firebase for authentication
+
+## Pet Crafter
+**Pet Adoption Site**
+
+**Live Link:** [Pet Crafter Live](https://petcrafter-c112e.web.app/)
+
+### Project Overview
+Full-Stack Project developed in 4 Days
+
+#### Features:
+- **Submit adoption requests for pets.**
+- **Contribute to donation campaigns.**
+- **Make payments using a card for donations.**
+- **View and manage all user profiles.[Admin Section]**
+- **Monitor and oversee pet adoption requests.[Admin Section]**
+- **Track and manage ongoing donation campaigns.[Admin Section]**
+
+#### Usage Technology:
+- React.js, Express.js, Tailwind, DaisyUI, MongoDB, JWT, Formik, Tanstack Query, Axios, Swipper.js, Stripe for payment, React-Select, Cloudinary API, ImgBB, Lottie-React
